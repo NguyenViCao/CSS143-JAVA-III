@@ -1,0 +1,50 @@
+Alabama,Montgomery,1846,159.8,198525,3
+Alaska,Juneau,1906,2716.7,32113,3
+Arizona,Phoenix,1912,517.6,1680992,1
+Arkansas,Little Rock,1821,116.2,197312,1
+California,Sacramento,1854,97.9,513624,6
+Colorado,Denver,1867,153.3,727211,1
+Connecticut,Hartford,1875,17.3,122105,3
+Delaware,Dover,1777,22.4,38079,2
+Florida,Tallahassee,1824,95.7,194500,7
+Georgia,Atlanta,1868,133.5,506811,1
+Hawaii,Honolulu,1845,68.4,345064,1
+Idaho,Boise,1865,63.8,228959,1
+Illinois,Springfield,1837,54,114230,6
+Indiana,Indianapolis,1825,361.5,876384,1
+Iowa,Des Moines,1857,75.8,214237,1
+Kansas,Topeka,1856,56,125310,4
+Kentucky,Frankfort,1792,14.7,27679,15
+Louisiana,Baton Rouge,1880,76.8,220236,2
+Maine,Augusta,1832,55.4,18681,8
+Maryland,Annapolis,1694,6.73,39174,7
+Massachusetts,Boston,1630,89.6,692600,1
+Michigan,Lansing,1847,35,118210,5
+Minnesota,Saint Paul,1849,52.8,308096,2
+Mississippi,Jackson,1821,104.9,160628,1
+Missouri,Jefferson City,1826,27.3,42838,15
+Montana,Helena,1875,14,32315,6
+Nebraska,Lincoln,1867,74.6,289102,2
+Nevada,Carson City,1861,143.4,55916,6
+New Hampshire,Concord,1808,64.3,43627,3
+New Jersey,Trenton,1784,7.66,83203,10
+New Mexico,Santa Fe,1610,37.3,84683,4
+New York,Albany,1797,21.4,96460,6
+North Carolina,Raleigh,1792,114.6,474069,2
+North Dakota,Bismarck,1883,26.9,73529,2
+Ohio,Columbus,1816,210.3,898553,1
+Oklahoma,Oklahoma City,1910,620.3,655057,1
+Oregon,Salem,1855,45.7,174365,3
+Pennsylvania,Harrisburg,1812,8.11,49528,9
+Rhode Island,Providence,1900,18.5,179883,1
+South Carolina,Columbia,1786,125.2,131674,2
+South Dakota,Pierre,1889,13,13646,8
+Tennessee,Nashville,1826,525.9,670820,1
+Texas,Austin,1839,305.1,978908,4
+Utah,Salt Lake City,1858,109.1,200567,1
+Vermont,Montpelier,1805,10.2,7855,6
+Virginia,Richmond,1780,60.1,230436,4
+Washington,Olympia,1853,16.7,46478,24
+West Virginia,Charleston,1885,31.6,46536,1
+Wisconsin,Madison,1838,68.7,259680,2
+Wyoming,Cheyenne,1869,21.1,64235,1
